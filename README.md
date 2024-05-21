@@ -44,6 +44,8 @@ UserParameter=IMPRESSORA,type C:\zabbix\IMPRESSORA.txt
 
 Adicione o item conforme a imagem abaixo para poder coletar os dados e exibir nos dados recentes:
 
+<img src="https://github.com/ferspider3/ARANHA-ZabbixColetaBrother/blob/main/zabbix.png" alt="Exemplo Zabbix">
+
 
 
 
